@@ -1,6 +1,6 @@
 {
   "name": "@andris/restify-cors-middleware2",
-  "version": "2.1.2-patch.2",
+  "version": "2.1.2-patch.3",
   "author": "Datatrac Corporation",
   "license": "MIT",
   "description": "CORS middleware with full W3C spec support",
@@ -23,7 +23,7 @@
     "fix": "standard --fix"
   },
   "peerDependencies": {
-    "restify": "2.6.x - 9.x.x"
+    "restify": "2.6.x - 10.x.x"
   },
   "devDependencies": {
     "mocha": "^8.1.3",
